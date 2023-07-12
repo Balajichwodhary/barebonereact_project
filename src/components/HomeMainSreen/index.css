@@ -1,0 +1,10 @@
+.home-main-container{
+    width:100%
+}
+.home-main-contianer-1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin:5px;
+    margin-left: 25px;
+}

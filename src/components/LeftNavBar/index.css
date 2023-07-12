@@ -1,0 +1,15 @@
+.NavBar-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 100vh;
+    width:80px;
+    background-color: rgb(205, 224, 245)
+}
+
+.NavBar-container-1{
+    display: flex;
+    flex-direction: column
+
+}

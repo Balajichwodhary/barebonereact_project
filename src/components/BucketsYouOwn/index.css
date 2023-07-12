@@ -1,0 +1,41 @@
+.buckets-container {
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+    border:2px solid grey ;
+    border-radius: 10px;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+h3{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin:13px;
+
+}
+
+table {
+    width: 90%;
+    border-collapse:collapse;
+    height: 10vh; 
+}
+ 
+
+th {
+    border-top: 2px solid grey;
+    border-bottom: 2px solid grey;
+
+
+}
+ 
+td {
+    text-align: center;
+    margin: 100px;
+
+}
